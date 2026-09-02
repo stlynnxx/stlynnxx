@@ -27,14 +27,13 @@ Note that NexumNTL is not ready for outside adoption but hopefully one day will 
 	for issues if you'd like to jump in early!
 
 ## Tech Stack
-<p>
-	I am comfortable working with
-		- *C*
-		- *C#*
-		- *Python*
-		- *Flask*
-		- *HTML/CSS*
-</p>
+- *C*
+- *C#*
+- *Python*
+- *Flask*
+- *Blazor/Razor*
+- *HTML/CSS*
+
 
 ## Contact Me!
 <div align="left>
