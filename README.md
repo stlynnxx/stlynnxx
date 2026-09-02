@@ -11,7 +11,7 @@ repair business that has inspired a few of my projects as well has curiosity.
 - *Slippery Penguin*
 	<p>Slippery Penguin is a local privilege escalation enumeration tool for Linux, written in Python. It scans SUID binaries, checks file capabilities, traces execution via strace, and analyzes binary strings against a flags list, as well as GTFOBins data integration and safe async process handling. 
 
-Slippery Penguin is currently on v2.0.0, as of 9/1/2026<p>
+	Slippery Penguin is currently on v2.0.0, as of 9/1/2026<p>
 	
 - *Eclectic Electronics*<br>
 	Eclectic Electronics is the website for my business; I open sourced it for contributions and 
