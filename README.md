@@ -13,16 +13,16 @@ repair business that has inspired a few of my projects as well has curiosity.
 
 Slippery Penguin is currently on v2.0.0, as of 9/1/2026<p>
 	
-- *Eclectic Electronics*
+- *Eclectic Electronics*<br>
 	Eclectic Electronics is the website for my business; I open sourced it for contributions and 
 	so others that are still learning can look at it. It is written using Flask and deployed at www.eclecticelectronics.com
 
--  *NexumNTL*
+-  *NexumNTL*<br>
 	NexumNTL is an in progress work; it is the compiled "neurotransmission language" designed
 	in service of a non-public, non-LLM AI project I am working on. NexumNTL handles agentic 		  memory files, speech generation, and training through a morpheme-based codec. Files are encoded into a compressed ".nexc" file that will be loaded by an agent or editing software for passing instructions to an agent. There's more info in the repo readme!
 Note that NexumNTL is not ready for outside adoption but hopefully one day will be.
 
-- *Parts and Stock*
+- *Parts and Stock*<br>
 	Parts and Stock is an inventory system written in C#, designed for use with my repair business. Parts and Stock is currently being built and open to contributions; check the repo 
 	for issues if you'd like to jump in early!
 
