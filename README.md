@@ -51,3 +51,11 @@ Note that NexumNTL is not ready for outside adoption but hopefully one day will 
   <a href="https://www.eclecticelectronics.com"><img alt="Website" src="https://img.shields.io/badge/eclecticelectronics.com-6d4aff?style=for-the-badge&logo=aboutdotme&logoColor=white"></a>
 </p>
 </div>
+
+### Donations
+I am physically disabled and do this and hardware repair to support myself; if you feel generous and 
+can afford to do so, every penny helps out! 
+
+
+[![Support me on Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/stlynnxx)
+
