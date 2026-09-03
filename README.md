@@ -56,6 +56,5 @@ Note that NexumNTL is not ready for outside adoption but hopefully one day will 
 I am physically disabled and do this and hardware repair to support myself; if you feel generous and 
 can afford to do so, every penny helps out! 
 
-
-[![Support me on Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/stlynnxx)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H5F5269IH4)
 
