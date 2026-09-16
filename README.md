@@ -12,7 +12,7 @@ repair business that has inspired a few of my projects as well has curiosity.
 - ![GitHub Language Count](https://img.shields.io/github/languages/count/stlynnxx/Slippery-Penguin) ![Top Language](https://img.shields.io/github/languages/top/stlynnxx/Slippery-Penguin) <br>
 	<p>Slippery Penguin is a local privilege escalation enumeration tool for Linux, written in Python. It scans SUID binaries, checks file capabilities, traces execution via strace, and analyzes binary strings against a flags list, as well as GTFOBins data integration and safe async process handling. 
 
-	Slippery Penguin is currently on v2.1.0, as of 9/14/2026<p>
+	Slippery Penguin is currently on v2.1.3, as of 9/15/2026<p>
 	
 - *Eclectic Electronics*<br>
 - ![GitHub Language Count](https://img.shields.io/github/languages/count/stlynnxx/EclecticElectronics) ![Top Language](https://img.shields.io/github/languages/top/stlynnxx/EclecticElectronics) <br>
