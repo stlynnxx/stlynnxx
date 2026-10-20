@@ -18,7 +18,7 @@ repair business that has inspired a few of my projects as well has curiosity.
 
 	Slippery Penguin is currently on v2.3.8, as of 10/19/2026<p>
 - *dwnloaderr*<br>
--- ![GitHub Language Count](https://img.shields.io/github/languages/count/stlynnxx/dwnloaderr) ![Top Language](https://img.shields.io/github/languages/top/stlynnxx/dwnloaderr) <br>
+  - ![GitHub Language Count](https://img.shields.io/github/languages/count/stlynnxx/dwnloaderr) ![Top Language](https://img.shields.io/github/languages/top/stlynnxx/dwnloaderr) <br>
 	<p>dwnloaderr is a cross platform yt-dlp wrapper which can be used via terminal or via OS specific GUI helpers. Thanks to yt-dlp, it supports downloading from a wide variety of sites,
 	including entire playlist and entire profile downloading for sites such as Youtube. 
 	All options in the program are customizable via command flags, including download location, filetype/quality,metadata retrieval, subtitle retrieval, and more!</p>
