@@ -12,7 +12,8 @@ repair business that has inspired a few of my projects as well has curiosity.
 - ![GitHub Language Count](https://img.shields.io/github/languages/count/stlynnxx/Slippery-Penguin) ![Top Language](https://img.shields.io/github/languages/top/stlynnxx/Slippery-Penguin) <br>
 [![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/stlynnxx/badge.svg)](https://hub.xerj.org/contributors/stlynnxx)
 
-	<p>Slippery Penguin is a local privilege escalation enumeration tool for Linux, written in Python. It scans SUID binaries, checks file capabilities, traces execution via strace, and analyzes binary strings against a flags list, as well as GTFOBins data integration and safe async process handling. 
+	<p>Slippery Penguin is an SUID/SGID Enumerating, as well as filesystem security scanning tool. 
+	It is community led and human maintained, and always evolving.
 
 	Slippery Penguin is featured in the Xerj Corpus! Check Xerj out at https://github.com/xerj-org/xerj
 
